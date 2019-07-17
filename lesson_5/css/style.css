@@ -15,7 +15,7 @@ h2 {
 h1 {
     text-align: center;
     color: blue;
-    font-size: 42px;
+    font-size: 42 px;
 }
 .contents {
     width: 15%;
@@ -28,9 +28,14 @@ h1 {
     background: #ffe;  
     border: 1px solid #333; 
    }
+   
 li {
     list-style-type: none;
-   }
+   }  
+/*  ul {
+    margin-left: 0; 
+    padding-left: 0;
+   } */
 .preface {
     font-weight: 600;
     font-style: italic;
